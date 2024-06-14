@@ -28,11 +28,4 @@ class MuebleFormRequest extends FormRequest
         ];
     }
 }
-//$request->validate([
-   // 'id_categoria' => 'required|exists:categoria,id_categoria',
-    //'codigo' => 'required|string|max:50',
-    //'nombre' => 'required|string|max:100',
-    //'descripcion' => 'nullable|string|max:512',
-    ///'existencia' => 'required|integer',
-    //'imagen' => 'nullable|string|max:50',
-//]);
+

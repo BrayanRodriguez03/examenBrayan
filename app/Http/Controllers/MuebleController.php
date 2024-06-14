@@ -83,7 +83,6 @@ class MuebleController extends Controller
     {
         // Validar los datos del formulario
 
-        // Obtener el mueble a actualizar
         $mueble = Mueble::findOrFail($id);
         $mueble->nombre = $request->input('nombre');
         $mueble->material = $request->input('material');

@@ -6,21 +6,21 @@
   <title>PUNTO DE VENTA | Dashboard</title>
 
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="/CarlosExamen/public/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="/examenbrayan/public/plugins/fontawesome-free/css/all.min.css">
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <!-- Tempusdominus Bootstrap 4 -->
-  <link rel="stylesheet" href="/CarlosExamen/public/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
+  <link rel="stylesheet" href="/examenbrayan/public/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
   <!-- iCheck -->
-  <link rel="stylesheet" href="/CarlosExamen/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+  <link rel="stylesheet" href="/examenbrayan/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="/CarlosExamen/public/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="/examenbrayan/public/dist/css/adminlte.min.css">
   <!-- overlayScrollbars -->
-  <link rel="stylesheet" href="/CarlosExamen/public/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+  <link rel="stylesheet" href="/examenbrayan/public/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
   <!-- Daterange picker -->
-  <link rel="stylesheet" href="/CarlosExamen/public/plugins/daterangepicker/daterangepicker.css">
+  <link rel="stylesheet" href="/examenbrayan/public/plugins/daterangepicker/daterangepicker.css">
   <!-- summernote -->
-  <link rel="stylesheet" href="/CarlosExamen/public/plugins/summernote/summernote-bs4.min.css">
+  <link rel="stylesheet" href="/examenbrayan/public/plugins/summernote/summernote-bs4.min.css">
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
@@ -221,15 +221,7 @@
     <div class="content-header">
       <div class="container-fluid">
         <div class="row mb-2">
-          <div class="col-sm-6">
-            <h1 class="m-0">Dashboard</h1>
-          </div><!-- /.col -->
-          <div class="col-sm-6">
-            <ol class="breadcrumb float-sm-right">
-              <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">Dashboard v1</li>
-            </ol>
-          </div><!-- /.col -->
+          
         </div><!-- /.row -->
       </div><!-- /.container-fluid -->
     </div>
@@ -261,33 +253,33 @@
 <!-- ./wrapper -->
 
 <!-- jQuery -->
-<script src="/CarlosExamen/public/plugins/jquery/jquery.min.js"></script>
+<script src="/examenbrayan/public/plugins/jquery/jquery.min.js"></script>
 <!-- jQuery UI 1.11.4 -->
-<script src="/CarlosExamen/public/plugins/jquery-ui/jquery-ui.min.js"></script>
+<script src="/examenbrayan/public/plugins/jquery-ui/jquery-ui.min.js"></script>
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
 <script>
   $.widget.bridge('uibutton', $.ui.button)
 </script>
 <!-- Bootstrap 4 -->
-<script src="/CarlosExamen/public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/examenbrayan/public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- ChartJS -->
-<script src="/CarlosExamen/public/plugins/chart.js/Chart.min.js"></script>
+<script src="/examenbrayan/public/plugins/chart.js/Chart.min.js"></script>
 <!-- Sparkline -->
-<script src="/CarlosExamen/public/plugins/sparklines/sparkline.js"></script>
+<script src="/examenbrayan/public/plugins/sparklines/sparkline.js"></script>
 <!-- jQuery Knob Chart -->
-<script src="/CarlosExamen/public/plugins/jquery-knob/jquery.knob.min.js"></script>
+<script src="/examenbrayan/public/plugins/jquery-knob/jquery.knob.min.js"></script>
 <!-- daterangepicker -->
-<script src="/CarlosExamen/public/plugins/moment/moment.min.js"></script>
-<script src="/CarlosExamen/public/plugins/daterangepicker/daterangepicker.js"></script>
+<script src="/examenbrayan/public/plugins/moment/moment.min.js"></script>
+<script src="/examenbrayan/public/plugins/daterangepicker/daterangepicker.js"></script>
 <!-- Tempusdominus Bootstrap 4 -->
-<script src="/CarlosExamen/public/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+<script src="/examenbrayan/public/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
 <!-- Summernote -->
-<script src="/CarlosExamen/public/plugins/summernote/summernote-bs4.min.js"></script>
+<script src="/examenbrayan/public/plugins/summernote/summernote-bs4.min.js"></script>
 <!-- overlayScrollbars -->
-<script src="/CarlosExamen/public/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+<script src="/examenbrayan/public/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
 <!-- AdminLTE App -->
-<script src="/CarlosExamen/public/dist/js/adminlte.js"></script>
+<script src="/examenbrayan/public/dist/js/adminlte.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-<script src="/CarlosExamen/public/dist/js/pages/dashboard.js"></script>
+<script src="/examenbrayan/public/dist/js/pages/dashboard.js"></script>
 </body>
 </html>
